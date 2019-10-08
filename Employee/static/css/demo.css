@@ -1,0 +1,21 @@
+.jumbotron .container{
+  margin-top: 200px;
+  
+}
+td,table{
+  border: red 1.5px solid;
+  color: red;
+  margin: auto;
+  background: yellow;
+  font-size: 30px;
+}
+
+h1{
+  color: blue;
+  margin: auto;
+  text-align: center;
+}
+p
+{
+  text-align: center;
+}
